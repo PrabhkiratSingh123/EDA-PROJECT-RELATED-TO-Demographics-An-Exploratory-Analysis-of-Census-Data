@@ -9,7 +9,6 @@
 **Submitted By:** Prabhkirat Singh (Reg. No: 12309872)  
 **Guided By:** Mrs. Baljinder Kaur, Discipline of CSE/IT, Lovely Professional University  
 
-
 ## 📘 Project Overview
 
 This project conducts an **Exploratory Data Analysis (EDA)** of the Indian Census dataset to uncover insights about the population based on factors such as:

@@ -1,5 +1,4 @@
 # EDA-PROJECT-RELATED-TO-Demographics-An-Exploratory-Analysis-of-Census-Data
-
 # 🧠 DATA SCIENCE TOOLBOX: PYTHON PROGRAMMING  
 ## 📊 Demographics: An Exploratory Analysis of Census Data  
 
